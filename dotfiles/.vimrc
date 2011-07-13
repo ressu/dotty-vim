@@ -20,7 +20,6 @@ set expandtab smarttab
 set viminfo^=!
 
 " Enable pathogen
-call pathogen#runtime_prepend_subdirectories("~/sources/vim")
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
