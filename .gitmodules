@@ -61,3 +61,45 @@
 [submodule "vim/bundle/vim-trailing-whitespace"]
 	path = vim/bundle/vim-trailing-whitespace
 	url = https://github.com/bronson/vim-trailing-whitespace.git
+[submodule "vim/bundle/vimoutliner"]
+	path = vim/bundle/vimoutliner
+	url = https://github.com/e2/vim-vimoutliner.git
+[submodule "vim/bundle/xmledit"]
+	path = vim/bundle/xmledit
+	url = https://github.com/sukima/xmledit.git
+[submodule "vim/bundle/vim-surround"]
+	path = vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "vim/bundle/vim-taglist-plus"]
+	path = vim/bundle/vim-taglist-plus
+	url = https://github.com/int3/vim-taglist-plus.git
+[submodule "vim/bundle/vcscommand"]
+	path = vim/bundle/vcscommand
+	url = git://repo.or.cz/vcscommand
+[submodule "vim/bundle/gundo.vim"]
+	path = vim/bundle/gundo.vim
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "vim/bundle/nerdcommenter"]
+	path = vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "vim/bundle/vim-endwise"]
+	path = vim/bundle/vim-endwise
+	url = https://github.com/tpope/vim-endwise.git
+[submodule "vim/bundle/vim-matchit"]
+	path = vim/bundle/vim-matchit
+	url = https://github.com/tsaleh/vim-matchit.git
+[submodule "vim/bundle/vim-peepopen"]
+	path = vim-peepopen
+	url = https://github.com/shemerey/vim-peepopen.git
+[submodule "vim/bundle/Color-Sampler-Pack"]
+	path = vim/bundle/Color-Sampler-Pack
+	url = https://github.com/vim-scripts/Color-Sampler-Pack.git
+[submodule "vim/bundle/winmanager"]
+	path = vim/bundle/winmanager
+	url = https://github.com/vim-scripts/winmanager.git
+[submodule "vim/bundle/securemodelines"]
+	path = vim/bundle/securemodelines
+	url = https://github.com/ciaranm/securemodelines.git
+[submodule "vim/bundle/bufexplorer"]
+	path = vim/bundle/bufexplorer
+	url = https://github.com/vim-scripts/bufexplorer.zip.git
