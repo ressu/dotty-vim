@@ -79,25 +79,10 @@ autocmd FileType python compiler pylint
 "Map Function keys
 map <silent> <F2> :WMToggle<CR>
 map <silent> <F3> :TlistToggle<CR>
-map <silent> <F4> :Project<CR>
 
 " Enable spell checking
 set spell
 set spelllang=en,fi
-
-" Adopt a todo function
-function! TodoListMode()
-   e ~/.todo.otl
-   Calendar
-   wincmd l
-   set foldlevel=1
-   tabnew ~/.notes.txt
-   tabfirst
-   " or 'norm! zMzr'
-endfunction
-
-" Go to TodoMode
-nnoremap <silent> <Leader>todo :execute TodoListMode()<CR>
 
 " Next Tab
 nnoremap <silent> <C-Right> :tabnext<CR>
