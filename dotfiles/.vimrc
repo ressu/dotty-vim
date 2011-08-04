@@ -73,9 +73,6 @@ set switchbuf=usetab,newtab
 "Make NERC_commenter shut up about unkown filetypes
 let NERDShutUp=1
 
-"Set pylint as the compiler for python
-autocmd FileType python compiler pylint
-
 "Map Function keys
 map <silent> <F2> :WMToggle<CR>
 map <silent> <F3> :TlistToggle<CR>

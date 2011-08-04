@@ -100,3 +100,6 @@
 [submodule "vim/bundle/bufexplorer"]
 	path = vim/bundle/bufexplorer
 	url = https://github.com/vim-scripts/bufexplorer.zip.git
+[submodule "vim/bundle/pylint"]
+	path = vim/bundle/pylint
+	url = https://github.com/vim-scripts/pylint.vim.git
