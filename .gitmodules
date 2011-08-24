@@ -103,3 +103,6 @@
 [submodule "vim/bundle/pylint"]
 	path = vim/bundle/pylint
 	url = https://github.com/vim-scripts/pylint.vim.git
+[submodule "vim/bundle/tagbar"]
+	path = vim/bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
