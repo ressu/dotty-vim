@@ -101,7 +101,7 @@ let Tlist_Use_SingleClick = 1
 let Tlist_Inc_Winwidth = 0
 
 " enable neocomplcache
-let g:neocomplcache_enable_at_startup = 1
+let g:neocomplcache_enable_at_startup = 0
 
 " Map <Leader>cd to something useful
 nnoremap <silent> <Leader>cd :lcd %:h<CR>
